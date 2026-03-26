@@ -1,9 +1,6 @@
 # program-2-d-
 C module 2
 EX NO:2-d) Calculate the sum of digits of a number. 
-Date:19/10/2025 
-Name: VASANTH S 
-Ref no: 25017538
 
 AIM: To write a C program to calculate the sum of digits of a number.
 
